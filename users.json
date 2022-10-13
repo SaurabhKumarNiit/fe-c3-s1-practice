@@ -1,7 +1,23 @@
 {
   "users": [
     {
-      
-    }   
+      "id": 100
+    },
+    {
+      "username": "Harry",
+      "password": "12121212",
+      "contactNumber": null,
+      "EmailId": null,
+      "address": "bvafbbabfbebrt",
+      "id": 101
+    },
+    {
+      "username": "mahesh",
+      "password": "123123123",
+      "contact": "7896541255",
+      "email": "son@gmail.com",
+      "address": "Chennai,india",
+      "id": 102
+    }
   ]
 }
